@@ -1,7 +1,7 @@
 # simillar_app
 
 A new Flutter project.
-
+The matter of game keep clicking on right/left picture to get the same picture
 ## Getting Started
 
 This project is a starting point for a Flutter application.
